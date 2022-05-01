@@ -1,0 +1,19 @@
+
+
+uniform sampler2D u_Texture;
+uniform mat4 u_View;
+varying vec2 v_TexCoord;
+
+void main()  
+{     
+vec4 tex = texture(u_Texture, v_TexCoord);                            
+gl_FragColor = tex * vec4(1,1,1,1); 
+
+}                         
+
+
+
+
+
+
+

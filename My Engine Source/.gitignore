@@ -1,0 +1,9 @@
+
+*.ipch
+build/
+build2/
+homebuild/
+build/.vs/MYENGINE/v16/.suo
+build/.vs/MYENGINE/v16/.suo
+build/.vs/MYENGINE/v16/Browse.VC.db
+build/.vs/MYENGINE/v16/Solution.VC.db
