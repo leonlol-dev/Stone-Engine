@@ -25,8 +25,8 @@ The Stone Engine is an OpenGL created by me for my university game engine assign
 - SDL Events
 
 ## For more information
-Check out my report on this project in this repo for a detailed explantion on how this game engine was created.
-[a relative link](https://github.com/leonlol-dev/Stone-Engine/blob/main/s5222204_Leon_Sen_GEP_Report.pdf)
+Check out my [Report](https://github.com/leonlol-dev/Stone-Engine/blob/main/s5222204_Leon_Sen_GEP_Report.pdf) on this project in this repo for a detailed explantion on how this game engine was created.
+
 
 
 ## Website
