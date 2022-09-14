@@ -8,7 +8,7 @@ The Stone Engine is an OpenGL created by me for my university game engine assign
 - [OpenGL Extension Wrangler Library](http://glew.sourceforge.net/) - OpenGL Extension Wrangler Library
 - [OpenAL](https://www.openal.org/) - OpenAL Cross Platform 3D Audio
 
-#Specification
+## Specification
 - Components & Entity System
 - Resource Manager
 - Shader Program
@@ -24,7 +24,7 @@ The Stone Engine is an OpenGL created by me for my university game engine assign
 - 3D Transform (manipulate position, rotation and scale)
 - SDL Events
 
-#For more information
+## For more information
 Check out my report on this project in this repo for a detailed explantion on how this game engine was created.
 
 
